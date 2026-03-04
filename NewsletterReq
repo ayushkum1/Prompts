@@ -1,1 +1,16 @@
-
+To make the "Prompt of the Week" section truly impactful, you need more than just the prompt itself. You need to capture the story of how it solved a specific problem.
+​Since you are the SPOC, I recommend creating a simple Google Form or Microsoft Form with these specific questions. This makes it easy for them to submit and easy for you to copy-paste into your template.
+​📋 The "Peer Success" Questionnaire
+​1. The Human Element
+​Full Name & Team: (e.g., Sanjali, Backend Services Team).
+​Photo: Ask them to upload a high-resolution headshot (or a candid photo of them working).
+​2. The Context (The "Before")
+​The Task: What were you trying to achieve? (e.g., "Writing unit tests for a 500-line legacy class").
+​The Pain Point: Why was this difficult or boring? (e.g., "It usually takes me 3 hours of repetitive typing and mocking dependencies").
+​3. The Solution (The "Action")
+​The Specific Tool: Which AI did you use? (e.g., "Continue extension with Gemini 1.5 Pro").
+​The Golden Prompt: "Please paste the exact prompt you used." (Encourage them to include any specific "system instructions" they added).
+​4. The Impact (The "After")
+​Time Saved: How long did it take with AI vs. how long it would have taken manually?
+​Quality Boost: Did it find a bug you missed? Did it improve code coverage?
+​The "Aha!" Moment: What was the one thing the AI did that surprised you? (This makes for a great quote!).
